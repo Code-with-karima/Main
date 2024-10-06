@@ -5,7 +5,7 @@ echo "X=".$x;
 echo "<br> reference of x is=".$$x;
 echo "<br> x=".$abc;
 
-$name="vanshika";
-$$name="salekar";
+$name="karima";
+$$name="chauhan";
 echo "<br> my name is $name".$$name;
 ?>
